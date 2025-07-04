@@ -39,13 +39,13 @@ Predicting used car prices is a real-world challenge affected by multiple variab
 
 ## Project Features
 
-- ✅ Built star schema for structured storage and efficient access
-- ✅ Automated ETL pipeline to handle inconsistent, real-world data
-- ✅ Data validation before and after processing using Great Expectations
-- ✅ Feature engineering, encoding, standardization, and drift handling
-- ✅ ML model trained using XGBoost and tuned with Optuna
-- ✅ Model deployed via FastAPI and monitored with MLflow
-- ✅ Plans for automated retraining, drift detection, and cloud deployment
+- Built star schema for structured storage and efficient access
+- Automated ETL pipeline to handle inconsistent, real-world data
+- Data validation before and after processing using Great Expectations
+- Feature engineering, encoding, standardization, and drift handling
+- ML model trained using XGBoost and tuned with Optuna
+- Model deployed via FastAPI and monitored with MLflow
+- Plans for automated retraining, drift detection, and cloud deployment
 
 ---
 
